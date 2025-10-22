@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Node.js-18.x-green?logo=node.js" />
   <img src="https://img.shields.io/badge/License-MIT-blue" />
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" />
+  <img src="https://img.shields.io/badge/Linguagem-JavaScript-informational?logo=javascript" />
 </p>
 
 ---
